@@ -40,31 +40,31 @@ I enjoy exploring different areas of computer science—from AI and machine lear
 🛠️ Tech Stack
 
 Languages:
-C • C++ • Python • Java • Assembly
+- C • C++ • Python • Java • Assembly
 
 Tools & Platforms:
-Git • GitHub • Linux • VSCode
+- Git • GitHub • Linux • VSCode
 
 Knowledge Areas:
-Data structures & algorithms • OS concepts • Networking basics • Scripting • Version control
+- Data structures & algorithms • OS concepts • Networking basics • Scripting • Version control
 
 📚 Some Values I Believe In
 
-Build to learn — projects are the best teachers
+- Build to learn — projects are the best teachers
 
-Clarity over complexity
+- Clarity over complexity
 
-Collaboration and communication matter as much as code
+- Collaboration and communication matter as much as code
 
-Consistency beats intensity
+- Consistency beats intensity
 
 🌱 Currently Learning
 
-AI fundamentals
+- AI fundamentals
 
-Efficient algorithms for competitive programming
+- Efficient algorithms for competitive programming
 
-Software testing & automation practices
+- Software testing & automation practices
 
 📫 Let’s Connect
 
