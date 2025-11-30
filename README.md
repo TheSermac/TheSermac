@@ -25,17 +25,17 @@ I enjoy exploring different areas of computer science—from AI and machine lear
 
 🧠 What I’m Interested In
 
-Artificial Intelligence & ML fundamentals
+- Artificial Intelligence & ML fundamentals
 
-Algorithm optimization
+- Algorithm optimization
 
-Systems programming & performance
+- Systems programming & performance
 
-Automation and tooling
+- Automation and tooling
 
-Open-source collaboration
+- Open-source collaboration
 
-Clean code, design patterns & good engineering practices
+- Clean code, design patterns & good engineering practices
 
 🛠️ Tech Stack
 
